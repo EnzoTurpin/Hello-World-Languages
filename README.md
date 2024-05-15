@@ -68,8 +68,8 @@ To view or run these programs, you'll need an appropriate compiler or interprete
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/hello-world-multiple-languages.git
-   cd hello-world-multiple-languages
+   git clone https://github.com/EnzoTurpin/Hello-World-Languages
+   cd hello-world
    ```
 
 2. **Install the required tools:**
